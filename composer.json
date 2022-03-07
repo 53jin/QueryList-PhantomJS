@@ -1,12 +1,12 @@
 {
-    "name": "jaeger/querylist-phantomjs",
+    "name": "53jin/querylist-phantomjs",
     "description": "QueryList Plugin: Use PhantomJS to crawl Javascript dynamically rendered pages.(headless WebKit ) 使用PhantomJS采集JavaScript动态渲染的页面",
     "require": {
         "PHP":">=7.0",
         "53jin/php-phantomjs": "4.*"
     },
     "require-dev": {
-        "jaeger/querylist": "dev-master"
+        "53jin/querylist": "dev-master"
     },
     "autoload": {
         "psr-4": {
@@ -16,8 +16,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jaeger",
-            "email": "JaegerCode@gmail.com"
+            "name": "53jin",
+            "email": "53jin@gmail.com"
         }
     ]
 }

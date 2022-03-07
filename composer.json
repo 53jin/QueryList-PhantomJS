@@ -6,7 +6,7 @@
         "53jin/php-phantomjs": "4.*"
     },
     "require-dev": {
-        "53jin/querylist": "dev-master"
+        "jaeger/querylist": "dev-master"
     },
     "autoload": {
         "psr-4": {
